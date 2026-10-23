@@ -49,7 +49,6 @@ The trained model is saved as:
 The model file is included in this repository for reuse without retraining.
 
 ## How to Run
-
 1. Clone or download this repository.
 2. Install the required libraries:
 
@@ -58,12 +57,9 @@ The model file is included in this repository for reuse without retraining.
    ```
 
 3. Download and extract the Food-11 dataset.
-4. Update the training and testing dataset paths in the Python script.
-5. Run the Python file:
+4. Open `food11_cnn_classification.ipynb` in Google Colab or Jupyter Notebook.
+5. Update the dataset paths and run the notebook cells.
 
-   ```bash
-   python food_11_cnn_classification.py
-   ```
 
 ## Applications
 - Food image classification
